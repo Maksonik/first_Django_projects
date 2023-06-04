@@ -1,2 +1,2 @@
 # first_Django_projects
-I do it project across a book Django 4 in examples
+I do this project across the book "Django 4 in examples"
